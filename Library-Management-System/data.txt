@@ -1,0 +1,12 @@
+id   name    edition  TheAuthor    Type      Quantity
+============================================================
+ 1   digital     5    Mohamed    Magazine      99
+ 2       C++    15     Kareem        Book      99
+ 3      JAVA    13        Ali     Booklet     100
+ 4        IT     9      Ahmed    Magazine     100
+ 5  Discrete    11   Marghany     Booklet     100
+ 6 Algorithm    10      Noura        Book     100
+ 7   NetWork    15      Nagwa    Magazine     100
+ 8      Math    14       Omar     Booklet     100
+ 9        C#    12    Khadija        Book     100
+10   Biology    12      Hosny     Booklet      99
