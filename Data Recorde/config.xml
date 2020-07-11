@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\KeMo\Documents\NetBeansProjects\JavaApplication6\dist\JavaApplication6.jar</jar>
+  <outfile>C:\Users\KeMo\Desktop\Data Recorde\Data Recorde.exe</outfile>
+  <errTitle>Please Install Java First</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\KeMo\Desktop\New folder\Data Recorde\img.ico</icon>
+  <singleInstance>
+    <mutexName>Data Recorde</mutexName>
+    <windowTitle>Data Recorde</windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0.0.0</txtFileVersion>
+    <fileDescription>Java application to recorde customers phones system</fileDescription>
+    <copyright>K.K</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0.0</txtProductVersion>
+    <productName>Data Recorde</productName>
+    <companyName>K.KHALED</companyName>
+    <internalName>Data Recorde</internalName>
+    <originalFilename>Data Recorde.exe</originalFilename>
+    <trademarks>K.K</trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
