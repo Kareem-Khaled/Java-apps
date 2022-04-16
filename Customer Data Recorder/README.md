@@ -5,7 +5,6 @@
  
  <h3>It has a lot of functions such as:<\h3>
  <ul>
-   <li>adding, deleting, searching and printing customers data.</li>  
    <li>Adding</li>  
    <li>Editing</li>
    <li>Deleting</li>  
@@ -15,4 +14,4 @@
   
 ![data-recorder](https://user-images.githubusercontent.com/53629881/163659329-38f95200-4494-4f06-a808-26627de56fda.gif)
 
-<h3>- <em>Tools and technologies used: GUI in Java</h3>
+<h3>- <em>Tools and technologies used: GUI in Java, OOP, SQLite, Net Beans</h3>
